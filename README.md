@@ -1,4 +1,5 @@
 # CloudMusic-LevelUp
+[![网易云飞升](https://github.com/YaSaXii/CloudMusic-LevelUp/actions/workflows/action.yml/badge.svg)](https://github.com/YaSaXii/CloudMusic-LevelUp/actions/workflows/action.yml)
 
 > 网易云音乐刷歌升级脚本
 >
